@@ -1,4 +1,4 @@
-# Shell game, but blindfolded. First python program written in 5 minutes.
+# Shell game, but you are blindfolded. First python program written in 5 minutes.
 
 import random # Import random library for game to function.
 
